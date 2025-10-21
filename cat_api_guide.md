@@ -1,4 +1,4 @@
-# Getting a Random Cat Fact
+п# Getting a Random Cat Fact
 
 This guide explains how to use the `GET /fact` endpoint to retrieve a random fact about cats.
 
@@ -38,8 +38,10 @@ The response body is a JSON object containing the fact and its length.
 
 ```json
 {
-  "fact": "A cat has the ability to rotate its ears 180 degrees.",
-  "length": 57
+"fact":"Sir Isaac Newton is credited
+ with creating the concept for the pet door
+that many cats use today to travel outdoors.",
+"length":116}
 }
 ```
 
