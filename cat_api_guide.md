@@ -1,4 +1,4 @@
-п# Getting a Random Cat Fact
+# Getting a Random Cat Fact
 
 This guide explains how to use the `GET /fact` endpoint to retrieve a random fact about cats.
 
