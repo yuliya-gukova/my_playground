@@ -47,8 +47,8 @@ that many cats use today to travel outdoors.",
 
 **Fields:**
 
-· fact (string): The random cat fact.
-· length (integer): The number of characters in the fact.
+- fact (string): The random cat fact.
+- length (integer): The number of characters in the fact.
 
 ## Example Usage
 
