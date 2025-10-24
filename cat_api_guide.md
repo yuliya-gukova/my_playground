@@ -27,6 +27,7 @@ GET https://catfact.ninja/fact
 
 This endpoint does not require any parameters.
 
+
 ### Response
 
 #### Success Response
