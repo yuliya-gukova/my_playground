@@ -1,8 +1,10 @@
 # my_playground
 Проба пера
 # Documentation Projects
+Этот репозиторий содержит примеры моей документации к API, созданные в ходе изучения инструментов технического писателя (Markdown, Git, работа с API
 
-https://github.com/yuliya-gukova/my_playground/blob/main/cat_api_guide.md
+1. Один случайный факт о котах.
+   https://github.com/yuliya-gukova/my_playground/blob/main/cat_api_guide.md
 
 # Моя первая запись
 **жирный текст**
