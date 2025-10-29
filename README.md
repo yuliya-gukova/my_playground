@@ -9,7 +9,7 @@
 
 ## Примеры инструкций ##
 1. Инструкция по смене аватара в desktop-версии "Telegram"
-   
+   https://github.com/yuliya-gukova/my_playground/blob/main/telegram_avatar_guide.md
 
 # Моя первая запись
 **жирный текст**
